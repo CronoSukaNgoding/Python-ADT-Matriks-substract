@@ -1,0 +1,2 @@
+# Python-ADT-Matriks
+Operasi substract(matriksLain) membuat dan mengembalikan matriks baru yang merupakan hasil pengurangan matriks ini dengan matriksLain yang diberikan. Operasi pengurangan dua matriks dalam matematika didefinisikan sebagai berikut:  Pengurangan. Dua buah matriks dengan ukuran m×n dapat dikurangkan dengan mengurangkan setiap elemen dari matriks ruas kiri dengan elemen berindeks sama dari matriks ruas kanan.
